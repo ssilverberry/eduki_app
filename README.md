@@ -40,10 +40,16 @@ npm run ios
 yarn ios
 ```
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
+If everything is set up _correctly_, you should see the app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up everything correctly.
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
 ## Congratulations! 🥳
 
-You've successfully run the app.
+You've successfully run the app and should see something like this 
+
+<div>
+<img width="320" alt="image" src="https://github.com/ssilverberry/eduki_app/assets/16521462/2f25d570-ce1d-4dc0-98bf-5a9199aaa718">
+<img width="320" alt="image" src="https://github.com/ssilverberry/eduki_app/assets/16521462/799a00a8-2a1a-413b-8b5a-56d5d06513e1">
+</div>
+
